@@ -1,5 +1,5 @@
 #petProject
-1. `docker-compose up -d`
+1. Terminal: `docker-compose up -d`
 2. Browser: `localhost:8000`
 3. For DB connection in PyCharm:
 host: `127.0.0.1`;
